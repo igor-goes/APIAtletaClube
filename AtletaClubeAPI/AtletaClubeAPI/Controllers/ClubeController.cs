@@ -28,6 +28,7 @@ namespace AtletaClubeAPI.Controllers
         }
 
         [HttpDelete]
+        [Route("deletar")]
         public IActionResult Delete(int id)
         {
             if (id == 0) return BadRequest();
@@ -36,6 +37,7 @@ namespace AtletaClubeAPI.Controllers
         }
 
         [HttpPost]
+        [Route("inserir")]
         public IActionResult Post(Clube clube)
         {
             if (clube == null) return BadRequest();
@@ -43,6 +45,7 @@ namespace AtletaClubeAPI.Controllers
             return Ok();
         }
         [HttpPut]
+        [Route("alterar")]
         public IActionResult Update(Clube clube)
         {
             if (clube == null) return BadRequest();
