@@ -28,7 +28,7 @@ namespace AtletaClubeAPI.Controllers
         }
 
         [HttpDelete]
-        [Route("deletar")]
+        [Route("deletar/{id}")]
         public IActionResult Delete(int id)
         {
             if (id == 0) return BadRequest();
