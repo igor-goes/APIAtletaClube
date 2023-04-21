@@ -22,13 +22,13 @@ Estou realizando esta documentação referente a API que desenvolvi para o Teste
 #### Retorna todos os atletas
 
 ```http
-  GET /api/Atleta
+  GET apiatletasclube.azurewebsites.net/api/Atleta
 ```
 
 #### Retorna um atleta específico
 
 ```http
-  GET /api/Atleta/${id}
+  GET apiatletasclube.azurewebsites.net/api/Atleta/${id}
 ```
 
 | Parâmetro   | Tipo       | Descrição                                   |
@@ -38,7 +38,7 @@ Estou realizando esta documentação referente a API que desenvolvi para o Teste
 #### Excluir um atleta específico
 
 ```http
-  DELETE /api/Atleta/deletar/${id}
+  DELETE apiatletasclube.azurewebsites.net/api/Atleta/api/Atleta/deletar/${id}
 ```
 
 | Parâmetro   | Tipo       | Descrição                                   |
@@ -47,7 +47,7 @@ Estou realizando esta documentação referente a API que desenvolvi para o Teste
 
 #### Inserir um novo atleta
 ```http
-  POST /api/Atleta/inserir
+  POST apiatletasclube.azurewebsites.net/api/Atleta/api/Atleta/inserir
 ```
 
 ## Post/Exemplo
@@ -64,7 +64,7 @@ Estou realizando esta documentação referente a API que desenvolvi para o Teste
 #### Alterar um atleta já existente
 
 ```http
-  PUT /api/Atleta/alterar
+  PUT apiatletasclube.azurewebsites.net/api/Atleta/api/Atleta/alterar
 ```
 
 ## Put/Exemplo
@@ -80,13 +80,13 @@ Estou realizando esta documentação referente a API que desenvolvi para o Teste
 #### Retorna todos os clubes
 
 ```http
-  GET /api/Clube
+  GET apiatletasclube.azurewebsites.net/api/Atleta/api/Clube
 ```
 
 #### Retorna um clube específico
 
 ```http
-  GET /api/Clube/${id}
+  GET apiatletasclube.azurewebsites.net/api/Atleta/api/Clube/${id}
 ```
 
 | Parâmetro   | Tipo       | Descrição                                   |
@@ -96,7 +96,7 @@ Estou realizando esta documentação referente a API que desenvolvi para o Teste
 #### Excluir um clube específico
 
 ```http
-  DELETE /api/Clube/deletar/${id}
+  DELETE apiatletasclube.azurewebsites.net/api/Atleta/api/Clube/deletar/${id}
 ```
 
 | Parâmetro   | Tipo       | Descrição                                   |
@@ -105,7 +105,7 @@ Estou realizando esta documentação referente a API que desenvolvi para o Teste
 
 #### Inserir um novo clube
 ```http
-  POST /api/Clube/inserir
+  POST apiatletasclube.azurewebsites.net/api/Atleta/api/Clube/inserir
 ```
 
 ## Post/Exemplo
@@ -122,7 +122,7 @@ Estou realizando esta documentação referente a API que desenvolvi para o Teste
 #### Alterar um clube já existente
 
 ```http
-  PUT /api/Clube/alterar
+  PUT apiatletasclube.azurewebsites.net/api/Atleta/api/Clube/alterar
 ```
 
 ## Put/Exemplo
