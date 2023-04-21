@@ -52,6 +52,14 @@ builder.Services.AddCors(options =>
             .AllowAnyHeader();
     });
 });
+builder.Services.AddAuthorization(options =>
+{
+    options.AddPolicy("AllowAnonymous", policy => policy.RequireAssertion(context =>
+    {
+        return context.User.Identity != null && context.User.Identity.IsAuthenticated;
+    })
+        .Build());
+});
 var app = builder.Build();
 app.UseCors("AllowAll");
 // Configure the HTTP request pipeline.
@@ -62,6 +70,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseAuthorization();
 app.UseRouting();
 app.UseEndpoints(endpoints =>
 {

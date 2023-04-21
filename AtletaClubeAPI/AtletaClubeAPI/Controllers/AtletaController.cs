@@ -16,18 +16,21 @@ namespace AtletaClubeAPI.Controllers
             _repository = repository;
         }
 
+        [AllowAnonymous]
         [HttpGet("{id}")]
         public IActionResult GetByID(int id)
         {
             return Ok(_repository.GetByID(id));
         }
 
+        [AllowAnonymous]
         [HttpGet]
         public IActionResult GetAll()
         {
             return Ok(_repository.GetAll());
         }
 
+        [AllowAnonymous]
         [HttpDelete("deletar/{id}")]
         public IActionResult Delete(int id)
         {
@@ -36,6 +39,7 @@ namespace AtletaClubeAPI.Controllers
             return Ok();
         }
 
+        [AllowAnonymous]
         [HttpPost("inserir")]
         public IActionResult Post([FromBody] Atleta atleta)
         {
@@ -44,6 +48,7 @@ namespace AtletaClubeAPI.Controllers
             return Ok();
         }
 
+        [AllowAnonymous]
         [HttpPut("alterar")]
         public IActionResult Update([FromBody] Atleta atleta)
         {
