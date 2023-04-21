@@ -1,7 +1,7 @@
 
 # Documentação API Atleta e Clube
 
-Estou realizando esta documentação referente a API que desenvolvi para o Teste na empresa Ploomes
+Essa API foi desenvolvida para o processo seletivo da empresa Ploomes e está hospedada na plataforma de cloud computing Azure. Além disso, ela também está integrada com um banco de dados que permite armazenar as informações dos atletas e dos clubes, possibilitando a realização das ações de adicionar, deletar, alterar e verificar esses dados de forma segura e eficiente.
 
 
 ## Autores
@@ -11,10 +11,10 @@ Estou realizando esta documentação referente a API que desenvolvi para o Teste
 
 ## Tecnologias
 
-- Utilizei Entity Framework
-- (aquele negocio que o gui disse sobre criar tabela atraves do codigo)
-- Core 6
+- Entity Framework Code First
+- ASP NET CORE
 - C#
+- Azure
 
 
 ## Documentação da API
