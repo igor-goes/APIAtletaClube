@@ -28,7 +28,7 @@ namespace AtletaClubeAPI.Controllers
             return Ok(_repository.GetAll());
         }
 
-        [HttpDelete("{id}")]
+        [HttpDelete("deletar/{id}")]
         public IActionResult Delete(int id)
         {
             if (id == 0) return BadRequest();
@@ -36,7 +36,7 @@ namespace AtletaClubeAPI.Controllers
             return Ok();
         }
 
-        [HttpPost]
+        [HttpPost("inserir")]
         public IActionResult Post([FromBody] Atleta atleta)
         {
             if (atleta == null) return BadRequest();
@@ -44,7 +44,7 @@ namespace AtletaClubeAPI.Controllers
             return Ok();
         }
 
-        [HttpPut]
+        [HttpPut("alterar")]
         public IActionResult Update([FromBody] Atleta atleta)
         {
             if (atleta == null) return BadRequest();
