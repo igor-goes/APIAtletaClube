@@ -1,11 +1,12 @@
 ﻿using Domain.Entities;
 using Infrastructure.Repository;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 
 namespace AtletaClubeAPI.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("/api/atleta")]
     [ApiController]
     public class AtletaController : ControllerBase
     {
@@ -27,8 +28,7 @@ namespace AtletaClubeAPI.Controllers
             return Ok(_repository.GetAll());
         }
 
-        [HttpDelete]
-        [Route("deletar/{id}")]
+        [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
             if (id == 0) return BadRequest();
@@ -37,15 +37,14 @@ namespace AtletaClubeAPI.Controllers
         }
 
         [HttpPost]
-        [Route("inserir")]
         public IActionResult Post(Atleta atleta)
         {
             if (atleta == null) return BadRequest();
             _repository.Post(atleta);
             return Ok();
         }
+
         [HttpPut]
-        [Route("alterar")]
         public IActionResult Update(Atleta atleta)
         {
             if (atleta == null) return BadRequest();

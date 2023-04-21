@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace AtletaClubeAPI.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/clube")]
     [ApiController]
     public class ClubeController : ControllerBase
     {
@@ -27,8 +27,7 @@ namespace AtletaClubeAPI.Controllers
             return Ok(_repository.GetAll());
         }
 
-        [HttpDelete]
-        [Route("deletar/{id}")]
+        [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
             if (id == 0) return BadRequest();
@@ -37,7 +36,6 @@ namespace AtletaClubeAPI.Controllers
         }
 
         [HttpPost]
-        [Route("inserir")]
         public IActionResult Post(Clube clube)
         {
             if (clube == null) return BadRequest();
@@ -45,7 +43,6 @@ namespace AtletaClubeAPI.Controllers
             return Ok();
         }
         [HttpPut]
-        [Route("alterar")]
         public IActionResult Update(Clube clube)
         {
             if (clube == null) return BadRequest();
