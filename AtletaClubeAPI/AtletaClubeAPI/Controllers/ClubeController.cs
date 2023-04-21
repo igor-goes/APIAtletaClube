@@ -36,14 +36,14 @@ namespace AtletaClubeAPI.Controllers
         }
 
         [HttpPost]
-        public IActionResult Post(Clube clube)
+        public IActionResult Post([FromBody] Clube clube)
         {
             if (clube == null) return BadRequest();
             _repository.Post(clube);
             return Ok();
         }
         [HttpPut]
-        public IActionResult Update(Clube clube)
+        public IActionResult Update([FromBody] Clube clube)
         {
             if (clube == null) return BadRequest();
             _repository.Update(clube);

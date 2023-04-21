@@ -37,7 +37,7 @@ namespace AtletaClubeAPI.Controllers
         }
 
         [HttpPost]
-        public IActionResult Post(Atleta atleta)
+        public IActionResult Post([FromBody] Atleta atleta)
         {
             if (atleta == null) return BadRequest();
             _repository.Post(atleta);
@@ -45,7 +45,7 @@ namespace AtletaClubeAPI.Controllers
         }
 
         [HttpPut]
-        public IActionResult Update(Atleta atleta)
+        public IActionResult Update([FromBody] Atleta atleta)
         {
             if (atleta == null) return BadRequest();
             _repository.Update(atleta);
