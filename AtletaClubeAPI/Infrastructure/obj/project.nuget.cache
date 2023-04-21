@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VkqmEXkE/sdio0n6VSkr9bI957gPhbDtZEq6VwF493pCXvOaZ0o/omz6nFNdZoXvwXYKBsPCEW9AsbHJNzoloQ==",
+  "dgSpecHash": "h4O0a9rUlWl9DKVa1Gpn+pO8RTtb5eSHV6RNOhVNkHSjU9e2arahupCn+3cJy7PgcEaXXXKwExSmB/l5kvOa8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pichau\\Desktop\\Faculdade\\AtletaClubeAPI\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Pichau\\Desktop\\Teste prático API\\APIAtletaClube\\AtletaClubeAPI\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pichau\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Pichau\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
