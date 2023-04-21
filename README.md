@@ -60,6 +60,9 @@ Essa API foi desenvolvida para o processo seletivo da empresa Ploomes e está ho
   "posicao": "string"
 }
 ```
+| Parâmetro   | Tipo       | Descrição                                   |
+| :---------- | :--------- | :------------------------------------------ |
+| `ClubeId`      | `int` | **Não é Obrigatório**. Seria o ID do clube que você quer adicionar o atleta.|
 
 #### Alterar um atleta já existente
 

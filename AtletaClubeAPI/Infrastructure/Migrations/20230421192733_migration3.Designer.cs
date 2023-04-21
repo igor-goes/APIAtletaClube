@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Infrastructure.Migrations
 {
     [DbContext(typeof(Context))]
-    [Migration("20230420223223_migration2")]
-    partial class migration2
+    [Migration("20230421192733_migration3")]
+    partial class migration3
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -36,9 +36,8 @@ namespace Infrastructure.Migrations
                     b.Property<int?>("ClubeId")
                         .HasColumnType("int");
 
-                    b.Property<string>("Idade")
-                        .IsRequired()
-                        .HasColumnType("varchar(2)");
+                    b.Property<int>("Idade")
+                        .HasColumnType("int");
 
                     b.Property<string>("Nacionalidade")
                         .IsRequired()
@@ -71,7 +70,7 @@ namespace Infrastructure.Migrations
                         .IsRequired()
                         .HasColumnType("varchar(50)");
 
-                    b.Property<string>("Estádio")
+                    b.Property<string>("Estadio")
                         .IsRequired()
                         .HasColumnType("varchar(50)");
 
@@ -94,14 +93,11 @@ namespace Infrastructure.Migrations
 
             modelBuilder.Entity("Domain.Entities.Atleta", b =>
                 {
-                    b.HasOne("Domain.Entities.Clube", null)
-                        .WithMany("Atletas")
+                    b.HasOne("Domain.Entities.Clube", "Clube")
+                        .WithMany()
                         .HasForeignKey("ClubeId");
-                });
 
-            modelBuilder.Entity("Domain.Entities.Clube", b =>
-                {
-                    b.Navigation("Atletas");
+                    b.Navigation("Clube");
                 });
 #pragma warning restore 612, 618
         }

@@ -17,7 +17,7 @@ namespace Domain.Entities
         [Column(TypeName = "varchar(50)")]
         public string Cidade { get; set; }
 
-        [Column(TypeName = "varchar(5)")]
+        [Column(TypeName = "varchar(10)")]
         public string Sigla { get; set; }
 
         [Column(TypeName = "varchar(50)")]
@@ -25,7 +25,5 @@ namespace Domain.Entities
 
         [Column(TypeName = "varchar(50)")]
         public string Treinador{ get; set; }
-
-        public ICollection<Atleta> Atletas { get; set; }
     }
 }

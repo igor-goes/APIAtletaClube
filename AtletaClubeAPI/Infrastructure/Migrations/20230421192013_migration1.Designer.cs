@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Infrastructure.Migrations
 {
     [DbContext(typeof(Context))]
-    [Migration("20230420222945_migration1")]
+    [Migration("20230421192013_migration1")]
     partial class migration1
     {
         /// <inheritdoc />
@@ -36,7 +36,7 @@ namespace Infrastructure.Migrations
                     b.Property<int?>("ClubeId")
                         .HasColumnType("int");
 
-                    b.Property<int>("IdClube")
+                    b.Property<int?>("ClubeId1")
                         .HasColumnType("int");
 
                     b.Property<string>("Idade")
@@ -59,6 +59,8 @@ namespace Infrastructure.Migrations
 
                     b.HasIndex("ClubeId");
 
+                    b.HasIndex("ClubeId1");
+
                     b.ToTable("Atleta");
                 });
 
@@ -74,7 +76,7 @@ namespace Infrastructure.Migrations
                         .IsRequired()
                         .HasColumnType("varchar(50)");
 
-                    b.Property<string>("Estádio")
+                    b.Property<string>("Estadio")
                         .IsRequired()
                         .HasColumnType("varchar(50)");
 
@@ -97,9 +99,15 @@ namespace Infrastructure.Migrations
 
             modelBuilder.Entity("Domain.Entities.Atleta", b =>
                 {
+                    b.HasOne("Domain.Entities.Clube", "Clube")
+                        .WithMany()
+                        .HasForeignKey("ClubeId");
+
                     b.HasOne("Domain.Entities.Clube", null)
                         .WithMany("Atletas")
-                        .HasForeignKey("ClubeId");
+                        .HasForeignKey("ClubeId1");
+
+                    b.Navigation("Clube");
                 });
 
             modelBuilder.Entity("Domain.Entities.Clube", b =>
