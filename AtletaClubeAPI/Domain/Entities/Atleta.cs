@@ -23,7 +23,6 @@ namespace Domain.Entities
         [Column(TypeName = "varchar(30)")]
         public string Posicao { get; set; }
 
-        [ForeignKey("Clube")]
-        public int ClubeId { get; set; }
+        public int? ClubeId { get; set; }
     }
 }
