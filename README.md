@@ -55,9 +55,9 @@ Essa API foi desenvolvida para o processo seletivo da empresa Ploomes e está ho
 {
   "nome": "string",
   "nacionalidade": "string",
-  "idade": 0,
+  "idade": int,
   "posicao": "string",
-  "clubeId": 0
+  "clubeId": int
 }
 ```
 | Parâmetro   | Tipo       | Descrição                                   |
@@ -74,9 +74,10 @@ Essa API foi desenvolvida para o processo seletivo da empresa Ploomes e está ho
 
 ```Json
 {
+  "id": int,
   "nome": "string",
   "nacionalidade": "string",
-  "idade": 0,
+  "idade": int,
   "posicao": "string"
 }
 ```
@@ -117,7 +118,7 @@ Essa API foi desenvolvida para o processo seletivo da empresa Ploomes e está ho
 {
   "nome": "string",
   "nacionalidade": "string",
-  "idade": 0,
+  "idade": int,
   "posicao": "string"
 }
 ```
@@ -132,9 +133,10 @@ Essa API foi desenvolvida para o processo seletivo da empresa Ploomes e está ho
 
 ```Json
 {
+  "id": int,
   "nome": "string",
   "nacionalidade": "string",
-  "idade": 0,
+  "idade": int,
   "posicao": "string"
 }
 ```
