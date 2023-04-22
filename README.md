@@ -84,13 +84,13 @@ Essa API foi desenvolvida para o processo seletivo da empresa Ploomes e está ho
 #### Retorna todos os clubes
 
 ```http
-  GET https://apiatletasclube.azurewebsites.net/api/atleta/clube
+  GET https://apiatletasclube.azurewebsites.net/api/clube
 ```
 
 #### Retorna um clube específico
 
 ```http
-  GET https://apiatletasclube.azurewebsites.net/api/atleta/clube/{id}
+  GET https://apiatletasclube.azurewebsites.net/api/clube/{id}
 ```
 
 | Parâmetro   | Tipo       | Descrição                                   |
@@ -100,7 +100,7 @@ Essa API foi desenvolvida para o processo seletivo da empresa Ploomes e está ho
 #### Excluir um clube específico
 
 ```http
-  DELETE https://apiatletasclube.azurewebsites.net/api/atleta/clube/deletar/{id}
+  DELETE https://apiatletasclube.azurewebsites.net/api/clube/deletar/{id}
 ```
 
 | Parâmetro   | Tipo       | Descrição                                   |
@@ -109,7 +109,7 @@ Essa API foi desenvolvida para o processo seletivo da empresa Ploomes e está ho
 
 #### Inserir um novo clube
 ```http
-  POST https://apiatletasclube.azurewebsites.net/api/atleta/clube/inserir
+  POST https://apiatletasclube.azurewebsites.net/api/clube/inserir
 ```
 
 ## Post/Exemplo
@@ -126,7 +126,7 @@ Essa API foi desenvolvida para o processo seletivo da empresa Ploomes e está ho
 #### Alterar um clube já existente
 
 ```http
-  PUT https://apiatletasclube.azurewebsites.net/api/atleta/clube/alterar
+  PUT https://apiatletasclube.azurewebsites.net/api/clube/alterar
 ```
 
 ## Put/Exemplo
