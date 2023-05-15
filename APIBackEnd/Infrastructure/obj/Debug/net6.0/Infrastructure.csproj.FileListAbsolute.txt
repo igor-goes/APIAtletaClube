@@ -1,0 +1,68 @@
+C:\Users\Pichau\Desktop\Faculdade\AtletaClubeAPI\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\Users\Pichau\Desktop\Faculdade\AtletaClubeAPI\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+C:\Users\Pichau\Desktop\Faculdade\AtletaClubeAPI\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\Pichau\Desktop\Faculdade\AtletaClubeAPI\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\Pichau\Desktop\Faculdade\AtletaClubeAPI\Infrastructure\bin\Debug\net6.0\Domain.dll
+C:\Users\Pichau\Desktop\Faculdade\AtletaClubeAPI\Infrastructure\bin\Debug\net6.0\Domain.pdb
+C:\Users\Pichau\Desktop\Faculdade\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Faculdade\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Faculdade\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Faculdade\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Faculdade\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Faculdade\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+C:\Users\Pichau\Desktop\Faculdade\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\Users\Pichau\Desktop\Faculdade\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+C:\Users\Pichau\Desktop\Faculdade\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\Users\Pichau\Desktop\Faculdade\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Faculdade\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+C:\Users\Pichau\Desktop\Teste prático API\APIAtletaClube\AtletaClubeAPI\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\Users\Pichau\Desktop\Teste prático API\APIAtletaClube\AtletaClubeAPI\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+C:\Users\Pichau\Desktop\Teste prático API\APIAtletaClube\AtletaClubeAPI\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\Pichau\Desktop\Teste prático API\APIAtletaClube\AtletaClubeAPI\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\Pichau\Desktop\Teste prático API\APIAtletaClube\AtletaClubeAPI\Infrastructure\bin\Debug\net6.0\Domain.dll
+C:\Users\Pichau\Desktop\Teste prático API\APIAtletaClube\AtletaClubeAPI\Infrastructure\bin\Debug\net6.0\Domain.pdb
+C:\Users\Pichau\Desktop\Teste prático API\APIAtletaClube\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Teste prático API\APIAtletaClube\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Teste prático API\APIAtletaClube\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Teste prático API\APIAtletaClube\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Teste prático API\APIAtletaClube\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Teste prático API\APIAtletaClube\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+C:\Users\Pichau\Desktop\Teste prático API\APIAtletaClube\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\Users\Pichau\Desktop\Teste prático API\APIAtletaClube\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+C:\Users\Pichau\Desktop\Teste prático API\APIAtletaClube\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\Users\Pichau\Desktop\Teste prático API\APIAtletaClube\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Teste prático API\APIAtletaClube\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+C:\Users\DEV_05\Documents\Faculdade\APIAtletaClube\AtletaClubeAPI\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\Users\DEV_05\Documents\Faculdade\APIAtletaClube\AtletaClubeAPI\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+C:\Users\DEV_05\Documents\Faculdade\APIAtletaClube\AtletaClubeAPI\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\DEV_05\Documents\Faculdade\APIAtletaClube\AtletaClubeAPI\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\DEV_05\Documents\Faculdade\APIAtletaClube\AtletaClubeAPI\Infrastructure\bin\Debug\net6.0\Domain.dll
+C:\Users\DEV_05\Documents\Faculdade\APIAtletaClube\AtletaClubeAPI\Infrastructure\bin\Debug\net6.0\Domain.pdb
+C:\Users\DEV_05\Documents\Faculdade\APIAtletaClube\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\DEV_05\Documents\Faculdade\APIAtletaClube\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV_05\Documents\Faculdade\APIAtletaClube\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DEV_05\Documents\Faculdade\APIAtletaClube\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\Users\DEV_05\Documents\Faculdade\APIAtletaClube\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DEV_05\Documents\Faculdade\APIAtletaClube\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+C:\Users\DEV_05\Documents\Faculdade\APIAtletaClube\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\Users\DEV_05\Documents\Faculdade\APIAtletaClube\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+C:\Users\DEV_05\Documents\Faculdade\APIAtletaClube\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\Users\DEV_05\Documents\Faculdade\APIAtletaClube\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
+C:\Users\DEV_05\Documents\Faculdade\APIAtletaClube\AtletaClubeAPI\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+C:\Users\DEV_05\Documents\Faculdade\APIBackEnd\APIBackEnd\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\Users\DEV_05\Documents\Faculdade\APIBackEnd\APIBackEnd\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+C:\Users\DEV_05\Documents\Faculdade\APIBackEnd\APIBackEnd\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\DEV_05\Documents\Faculdade\APIBackEnd\APIBackEnd\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\DEV_05\Documents\Faculdade\APIBackEnd\APIBackEnd\Infrastructure\bin\Debug\net6.0\Domain.dll
+C:\Users\DEV_05\Documents\Faculdade\APIBackEnd\APIBackEnd\Infrastructure\bin\Debug\net6.0\Domain.pdb
+C:\Users\DEV_05\Documents\Faculdade\APIBackEnd\APIBackEnd\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\DEV_05\Documents\Faculdade\APIBackEnd\APIBackEnd\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV_05\Documents\Faculdade\APIBackEnd\APIBackEnd\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DEV_05\Documents\Faculdade\APIBackEnd\APIBackEnd\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\Users\DEV_05\Documents\Faculdade\APIBackEnd\APIBackEnd\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DEV_05\Documents\Faculdade\APIBackEnd\APIBackEnd\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+C:\Users\DEV_05\Documents\Faculdade\APIBackEnd\APIBackEnd\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\Users\DEV_05\Documents\Faculdade\APIBackEnd\APIBackEnd\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+C:\Users\DEV_05\Documents\Faculdade\APIBackEnd\APIBackEnd\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\Users\DEV_05\Documents\Faculdade\APIBackEnd\APIBackEnd\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
+C:\Users\DEV_05\Documents\Faculdade\APIBackEnd\APIBackEnd\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
