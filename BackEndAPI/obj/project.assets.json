@@ -3970,11 +3970,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DEV_05\\Documents\\Faculdade\\APIBackEnd\\APIBackEnd\\BackEndAPI\\BackEndAPI.csproj",
+      "projectUniqueName": "C:\\Users\\DEV_05\\Documents\\Faculdade\\nutrilifelile-backend\\APIBackEnd\\APIBackEnd\\BackEndAPI\\BackEndAPI.csproj",
       "projectName": "BackEndAPI",
-      "projectPath": "C:\\Users\\DEV_05\\Documents\\Faculdade\\APIBackEnd\\APIBackEnd\\BackEndAPI\\BackEndAPI.csproj",
+      "projectPath": "C:\\Users\\DEV_05\\Documents\\Faculdade\\nutrilifelile-backend\\APIBackEnd\\APIBackEnd\\BackEndAPI\\BackEndAPI.csproj",
       "packagesPath": "C:\\Users\\DEV_05\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DEV_05\\Documents\\Faculdade\\APIBackEnd\\APIBackEnd\\BackEndAPI\\obj\\",
+      "outputPath": "C:\\Users\\DEV_05\\Documents\\Faculdade\\nutrilifelile-backend\\APIBackEnd\\APIBackEnd\\BackEndAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3994,8 +3994,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\DEV_05\\Documents\\Faculdade\\APIBackEnd\\APIBackEnd\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\DEV_05\\Documents\\Faculdade\\APIBackEnd\\APIBackEnd\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\DEV_05\\Documents\\Faculdade\\nutrilifelile-backend\\APIBackEnd\\APIBackEnd\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\DEV_05\\Documents\\Faculdade\\nutrilifelile-backend\\APIBackEnd\\APIBackEnd\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

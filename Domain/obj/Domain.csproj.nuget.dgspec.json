@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DEV_05\\Documents\\Faculdade\\APIBackEnd\\APIBackEnd\\Domain\\Domain.csproj": {}
+    "C:\\Users\\DEV_05\\Documents\\Faculdade\\nutrilifelile-backend\\APIBackEnd\\APIBackEnd\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DEV_05\\Documents\\Faculdade\\APIBackEnd\\APIBackEnd\\Domain\\Domain.csproj": {
+    "C:\\Users\\DEV_05\\Documents\\Faculdade\\nutrilifelile-backend\\APIBackEnd\\APIBackEnd\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DEV_05\\Documents\\Faculdade\\APIBackEnd\\APIBackEnd\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\DEV_05\\Documents\\Faculdade\\nutrilifelile-backend\\APIBackEnd\\APIBackEnd\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\DEV_05\\Documents\\Faculdade\\APIBackEnd\\APIBackEnd\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\DEV_05\\Documents\\Faculdade\\nutrilifelile-backend\\APIBackEnd\\APIBackEnd\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\DEV_05\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DEV_05\\Documents\\Faculdade\\APIBackEnd\\APIBackEnd\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\DEV_05\\Documents\\Faculdade\\nutrilifelile-backend\\APIBackEnd\\APIBackEnd\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

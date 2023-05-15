@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+stLwgpAYcMzOf5cTsd0BcdfzzHWU66WYcEhuka6RAHkFR8w04HCv9RQyVRy8rauH0eK8B7Ch/GoVSG+Z6ARXQ==",
+  "dgSpecHash": "jcmtc3GMRse+p/kHMPjzoHhlpT01ndACnF9nOdi8fdn1pu+AA1u1SuEJArOemsKm9lgbHfsoPGCRPbVLgbXhfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DEV_05\\Documents\\Faculdade\\APIBackEnd\\APIBackEnd\\BackEndAPI\\BackEndAPI.csproj",
+  "projectFilePath": "C:\\Users\\DEV_05\\Documents\\Faculdade\\nutrilifelile-backend\\APIBackEnd\\APIBackEnd\\BackEndAPI\\BackEndAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DEV_05\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\DEV_05\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
